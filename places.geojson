@@ -75,6 +75,329 @@
           41.142782331866115
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Pedro de Rates",
+        "category": "Românico",
+        "class": "Igreja Beneditina",
+        "notes": "Mosteiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.672263026237488,
+          41.42330278315477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganfei",
+        "category": "Românico",
+        "class": "Igreja Beneditina",
+        "notes": "Mosteiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.622314929962158,
+          42.039843192775045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paços de Sousa",
+        "class": "Igreja Beneditina",
+        "notes": "Mosteiro",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.34446221590042,
+          41.16591415528113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Salvador de Travanca",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.192753791809082,
+          41.277911285413246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pombeiro de Ribavizela",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.225380182266234,
+          41.38268530381223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Martinho de Mouros",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.898491322994232,
+          41.10186463390964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Martinho de Cedofeita",
+        "category": "Românico",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.621676564216612,
+          41.155762927391756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Pedro de Ferreira",
+        "category": "Românico",
+        "class": "Românico rural, nave única"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.343528807163239,
+          41.264854098024784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Salvador de Ansiães",
+        "notes": "",
+        "class": "Românico rural, nave única",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.304985523223876,
+          41.2024855136371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Cristóvão de Rio Mau",
+        "category": "Românico",
+        "class": "Românico rural, nave única",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.679231405258179,
+          41.39984555893154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Salvador de Bravães",
+        "class": "Românico rural, nave única",
+        "notes": "Igreja",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.452933430671692,
+          41.79785172513995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Pedro das Águias",
+        "category": "Românico",
+        "class": "Românico ",
+        "notes": "Mosteiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.513835728168487,
+          41.075820904848825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Cláudio de Nogueira",
+        "class": "Românico ",
+        "notes": "Igreja",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.725164234638214,
+          41.729933713662795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Comba de Bande",
+        "category": "Visigótico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.002088963985443,
+          41.97310934455146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro de la Nave",
+        "category": "Visigótico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96408486366272,
+          41.58322763053466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago de Peñalba",
+        "category": "Pré-românico, Moçárabe",
+        "notes": "Igreja",
+        "class": "Moçárabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.540783941745758,
+          42.427259888376994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel de Celanova",
+        "category": "Pré-românico, Moçárabe",
+        "class": "Moçárabe",
+        "notes": "Capela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.95683205127716,
+          42.15229867033987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Cebrián de Mazote",
+        "category": "Pré-românico, Moçárabe",
+        "class": "Moçárabe",
+        "notes": "Igreja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.146944522857666,
+          41.68091723983618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Miguel de Escalada",
+        "category": "Pré-românico, Moçárabe",
+        "class": "Moçárabe",
+        "notes": "Mosteiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.302853286266327,
+          42.57131869183262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Baudélio de Berlanga",
+        "category": "Pré-românico, Moçárabe",
+        "class": "Moçárabe",
+        "notes": "Igreja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.790130376815796,
+          41.418248357696896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Maria de Lebeña",
+        "category": "Pré-românico, Moçárabe",
+        "class": "Moçárabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.590345919132233,
+          43.21534138791918
+        ]
+      }
     }
   ]
 }
