@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Castelo de Vila do Touro",
-        "category": "Abandonados",
-        "notes": "Castelo"
+        "notes": "Castelo",
+        "period": "Abandonados"
       },
       "geometry": {
         "type": "Point",
@@ -20,8 +20,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sé de Braga",
-        "category": "Românico",
-        "notes": "Sé"
+        "notes": "Sé",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -35,8 +35,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sé de Coimbra",
-        "category": "Românico",
-        "notes": "Sé"
+        "notes": "Sé",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -50,8 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sé de Lisboa",
-        "category": "Românico",
-        "notes": "Sé"
+        "notes": "Sé",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -65,8 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sé do Porto",
-        "category": "Românico",
-        "notes": "Sé"
+        "notes": "Sé",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -80,9 +80,9 @@
       "type": "Feature",
       "properties": {
         "name": "São Pedro de Rates",
-        "category": "Românico",
         "class": "Igreja Beneditina",
-        "notes": "Mosteiro"
+        "notes": "Mosteiro",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -96,9 +96,9 @@
       "type": "Feature",
       "properties": {
         "name": "Ganfei",
-        "category": "Românico",
         "class": "Igreja Beneditina",
-        "notes": "Mosteiro"
+        "notes": "Mosteiro",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +114,7 @@
         "name": "Paços de Sousa",
         "class": "Igreja Beneditina",
         "notes": "Mosteiro",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -128,8 +128,8 @@
       "type": "Feature",
       "properties": {
         "name": "São Salvador de Travanca",
-        "category": "Românico",
-        "class": "Igreja Beneditina"
+        "class": "Igreja Beneditina",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +143,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pombeiro de Ribavizela",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +157,7 @@
       "type": "Feature",
       "properties": {
         "name": "São Martinho de Mouros",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -171,8 +171,8 @@
       "type": "Feature",
       "properties": {
         "name": "São Martinho de Cedofeita",
-        "category": "Românico",
-        "notes": ""
+        "notes": "",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -186,8 +186,8 @@
       "type": "Feature",
       "properties": {
         "name": "São Pedro de Ferreira",
-        "category": "Românico",
-        "class": "Românico rural, nave única"
+        "class": "Românico rural, nave única",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +203,7 @@
         "name": "São Salvador de Ansiães",
         "notes": "",
         "class": "Românico rural, nave única",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -217,9 +217,9 @@
       "type": "Feature",
       "properties": {
         "name": "São Cristóvão de Rio Mau",
-        "category": "Românico",
         "class": "Românico rural, nave única",
-        "notes": ""
+        "notes": "",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -235,7 +235,7 @@
         "name": "São Salvador de Bravães",
         "class": "Românico rural, nave única",
         "notes": "Igreja",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -249,9 +249,9 @@
       "type": "Feature",
       "properties": {
         "name": "São Pedro das Águias",
-        "category": "Românico",
         "class": "Românico ",
-        "notes": "Mosteiro"
+        "notes": "Mosteiro",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +267,7 @@
         "name": "São Cláudio de Nogueira",
         "class": "Românico ",
         "notes": "Igreja",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -281,7 +281,7 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Comba de Bande",
-        "category": "Visigótico"
+        "period": "Visigótico"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +295,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Pedro de la Nave",
-        "category": "Visigótico"
+        "period": "Visigótico"
       },
       "geometry": {
         "type": "Point",
@@ -309,9 +309,9 @@
       "type": "Feature",
       "properties": {
         "name": "Santiago de Peñalba",
-        "category": "Pré-românico, Moçárabe",
         "notes": "Igreja",
-        "class": "Moçárabe"
+        "class": "Moçárabe",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -325,9 +325,9 @@
       "type": "Feature",
       "properties": {
         "name": "San Miguel de Celanova",
-        "category": "Pré-românico, Moçárabe",
         "class": "Moçárabe",
-        "notes": "Capela"
+        "notes": "Capela",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -341,9 +341,9 @@
       "type": "Feature",
       "properties": {
         "name": "San Cebrián de Mazote",
-        "category": "Pré-românico, Moçárabe",
         "class": "Moçárabe",
-        "notes": "Igreja"
+        "notes": "Igreja",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -357,9 +357,9 @@
       "type": "Feature",
       "properties": {
         "name": "San Miguel de Escalada",
-        "category": "Pré-românico, Moçárabe",
         "class": "Moçárabe",
-        "notes": "Mosteiro"
+        "notes": "Mosteiro",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -373,9 +373,9 @@
       "type": "Feature",
       "properties": {
         "name": "San Baudélio de Berlanga",
-        "category": "Pré-românico, Moçárabe",
         "class": "Moçárabe",
-        "notes": "Igreja"
+        "notes": "Igreja",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -389,9 +389,9 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Maria de Lebeña",
-        "category": "Pré-românico, Moçárabe",
         "class": "Moçárabe",
-        "notes": ""
+        "notes": "",
+        "period": "Pré-românico, Moçárabe"
       },
       "geometry": {
         "type": "Point",
@@ -405,9 +405,9 @@
       "type": "Feature",
       "properties": {
         "name": "San Salvador de Valdediós",
-        "category": "Asturiana",
         "class": "Asturiana",
-        "notes": "Igreja"
+        "notes": "Igreja",
+        "period": "Asturiana"
       },
       "geometry": {
         "type": "Point",
@@ -421,9 +421,9 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Cristina de Serzadelo",
-        "category": "Românico",
         "class": "Agostinha",
-        "notes": ""
+        "notes": "",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -437,9 +437,9 @@
       "type": "Feature",
       "properties": {
         "name": "São João de Tarouca",
-        "category": "Românico",
         "notes": "Dormitório sob o comprido, Mosteiro",
-        "class": "Cister"
+        "class": "Cister",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -453,9 +453,9 @@
       "type": "Feature",
       "properties": {
         "name": "São Pedro de Varais",
-        "category": "Românico",
         "notes": "Capela",
-        "class": "Românico rural"
+        "class": "Românico rural",
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -469,7 +469,7 @@
       "type": "Feature",
       "properties": {
         "name": "Igreja de Melgaço",
-        "category": "Românico"
+        "period": "Românico"
       },
       "geometry": {
         "type": "Point",
@@ -483,15 +483,31 @@
       "type": "Feature",
       "properties": {
         "name": "Pitões das Júnias",
-        "category": "Românico, Gótico",
         "notes": "Igreja, Mosteiro",
-        "class": ""
+        "class": "",
+        "period": "Românico, Gótico"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -7.942527830600738,
           41.83117021697654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Frutuoso de Montélios",
+        "notes": "Capela",
+        "class": "Visigótico",
+        "period": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.438862562179565,
+          41.56034204450058
         ]
       }
     }
