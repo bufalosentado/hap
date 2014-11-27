@@ -15,6 +15,66 @@
           40.41825419669217
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sé de Braga",
+        "category": "Românico",
+        "notes": "Sé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.426953554153442,
+          41.55001328525813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sé de Coimbra",
+        "category": "Românico",
+        "notes": "Sé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4270179271698,
+          40.20877009281995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sé de Lisboa",
+        "category": "Românico",
+        "notes": "Sé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.132908284664154,
+          38.70982397062712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sé do Porto",
+        "category": "Românico",
+        "notes": "Sé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.611317873001097,
+          41.142782331866115
+        ]
+      }
     }
   ]
 }
