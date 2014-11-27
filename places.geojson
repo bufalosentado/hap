@@ -128,7 +128,8 @@
       "type": "Feature",
       "properties": {
         "name": "São Salvador de Travanca",
-        "category": "Românico"
+        "category": "Românico",
+        "class": "Igreja Beneditina"
       },
       "geometry": {
         "type": "Point",
@@ -389,13 +390,108 @@
       "properties": {
         "name": "Santa Maria de Lebeña",
         "category": "Pré-românico, Moçárabe",
-        "class": "Moçárabe"
+        "class": "Moçárabe",
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -4.590345919132233,
           43.21534138791918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Salvador de Valdediós",
+        "category": "Asturiana",
+        "class": "Asturiana",
+        "notes": "Igreja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.506548285484313,
+          43.437094509039284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cristina de Serzadelo",
+        "category": "Românico",
+        "class": "Agostinha",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.367974460124968,
+          41.40250732677847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São João de Tarouca",
+        "category": "Românico",
+        "notes": "Dormitório sob o comprido, Mosteiro",
+        "class": "Cister"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.74609088897705,
+          40.994386705909285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Pedro de Varais",
+        "category": "Românico",
+        "notes": "Capela",
+        "class": "Românico rural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.828319311141968,
+          41.827312900117256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igreja de Melgaço",
+        "category": "Românico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25921893119812,
+          42.11390118006775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pitões das Júnias",
+        "category": "Românico, Gótico",
+        "notes": "Igreja, Mosteiro",
+        "class": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.942527830600738,
+          41.83117021697654
         ]
       }
     }
