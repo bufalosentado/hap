@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castelo de Vila do Touro",
+        "category": "Abandonados",
+        "notes": "Castelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.106325030326843,
+          40.41825419669217
+        ]
+      }
+    }
+  ]
+}
